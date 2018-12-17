@@ -15,7 +15,7 @@ sudo pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0
 - runner
 ```
 cd prankwar
-python3 botwar.py
+python3 x.py
 ```
 
 - LINE UPDATE
