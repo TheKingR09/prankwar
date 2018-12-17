@@ -1,29 +1,11 @@
-#utf_8 *lineX [prankBots Creator]
+#utf_8 *lineX 
 
 """
-all of this data is copied from creator production PrankBots
-don't forget to always support the prabkbots channel
-SUBSCRABE HERE https://bit.ly/2xbVxlh
-MY ID LINE :: http://line.me/ti/p/~Adiputra.95
-Copy Righ :: http://github.com/Aprank
+
+MY ID LINE :: http://line.me/ti/p/~tkr.69
+Copy Righ :: http://github.com/TheKing09R
 Country :: INDONESIA.
-Response by acil
-
-
-MENERIMA PEMESANAN SCRIPT
-BOT PROTECT
-BOT WAR
-SELFBOT
-BOT OFFICIAL TEMPLATE
-
-PEMBUATAN BOT BEBAS REQUEST COMMANT, MODE BACKUP DLL.
-JIKA KAMU MINAT CHAT KE ID LINE
-line.me/ti/p/~Adiputra.95
-[TIDAK MENERIMA CALL ATAU UNDANGAN GRUP [AUTO REJECET AKTIF]]
-
-BIASAKAN CHAT DENGAN SOPAN WALAWPUN MENGGUNAKAN BAHAS FORMAL (LO,GW)
-SELENGEAN ANE GAK RESPON.
-YANG MAU KEPOIN GW JUGA BOLEH WKWKWK
+Response by Rax
 
 """
 from Rank.lineX import *
